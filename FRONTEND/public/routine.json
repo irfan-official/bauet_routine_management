@@ -1,0 +1,42 @@
+[
+  {
+    "first": "",
+    "second": "CSE-4103",
+    "third": "CSE-4103",
+    "fourth": "MATH-4107",
+    "fifth": "CSE-4000",
+    "sixth": "CSE-4000"
+  },
+  {
+    "first": "CSE-4104",
+    "second": "CSE-4104",
+    "third": "CSE-4104",
+    "fourth": "CSE-4101",
+    "fifth": "HUM-4163",
+    "sixth": "CSE-4103"
+  },
+  {
+    "first": "CSE-4101",
+    "second": "CSE-4101",
+    "third": "MATH-4107",
+    "fourth": "CSE-4102",
+    "fifth": "CSE-4102",
+    "sixth": "CSE-4102"
+  },
+  {
+    "first": "CSE-4137",
+    "second": "CSE-4137",
+    "third": "CSE-4137",
+    "fourth": "MATH-4107",
+    "fifth": "",
+    "sixth": "CSE-4000"
+  },
+  {
+    "first": "CSE-4100",
+    "second": "CSE-4100",
+    "third": "CSE-4100",
+    "fourth": "HUM-4163",
+    "fifth": "HUM-4163",
+    "sixth": ""
+  }
+]
